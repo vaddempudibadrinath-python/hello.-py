@@ -1,2 +1,3 @@
 # hello.-py
-GitHub("print")
+print ("hello.github")
+name = input("what is your name")
